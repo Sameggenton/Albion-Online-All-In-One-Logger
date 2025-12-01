@@ -1,0 +1,3 @@
+"show me how to connect to and sniff packets from albion online with NPCAP on windows with python"
+
+"generate an example JSON file with albion online loot and XP events"
