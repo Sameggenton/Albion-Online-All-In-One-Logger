@@ -10,6 +10,11 @@ TODO:
 
 import pcapy
 import netifaces
+import datetime
+import socket
+import sys
+import re
+import json
 
 def list_interfaces():
 
@@ -75,14 +80,94 @@ def select_interface(interfaces):
         ranked_ifaces.append((score, interface))
         print("")
 
+    # interfaces are sorted according to score
     ranked_ifaces.sort(reverse = True)
     bestScore, bestInterface = ranked_ifaces[0]
     print("\nSelected interface: ", bestInterface, "\nScore: ", bestScore)
 
+    # return most desireable interface
     return bestInterface
 
+def packet_handle(myIP, logfile, header, data):
+        ts = header.getts()[0]
+        timestamp = datetime.datetime.fromtimestamp(ts).isoformat()
 
-interfaces = list_interfaces()
-bestInterface = select_interface(interfaces)
+        # Parse the first 20 bytes of IP header (safe enough)
+        if len(data) < 34:  
+            return  # too small to be useful
 
-print("program done goodbye!")
+        # IP header fields
+        srcIP = socket.inet_ntoa(data[26:30])
+        dstIP = socket.inet_ntoa(data[30:34])
+
+        # Only record packets addressed TO ME
+        if myIP and dstIP != myIP:
+            return
+
+        entry = {
+            "timestamp": timestamp,
+            "src": srcIP,
+            "dst": dstIP,
+            "length": len(data),
+            "raw_hex": data.hex()  # store encrypted Albion packet
+        }
+
+        logfile.write(json.dumps(entry) + "\n")
+
+        print(f"[{timestamp}] {srcIP} → {dstIP}  ({len(data)} bytes)")
+
+def resolve_real_interface(npcap_name):
+    
+    #Given NPCAP name like '\Device\NPF_{GUID}',
+    #return real interface name like 'Wi-Fi' or 'Ethernet'.
+
+    # Extract GUID from NPCAP name
+    m = re.search(r'\{([0-9A-Fa-f\-]+)\}', npcap_name)
+    if not m:
+        return None
+
+    target_guid = m.group(1).lower()
+
+    # Now compare to the GUIDs in netifaces
+    for iface in netifaces.interfaces():
+        iface_lower = iface.lower()
+        if target_guid in iface_lower:
+            return iface
+
+    return None
+
+def main():
+    # finds and selects optimal interface 
+    interfaces = list_interfaces()
+    bestInterface = select_interface(interfaces)
+
+    # sniffer starts listening on best interface, filters for UDP packets because that is what Albion uses
+    sniffer = pcapy.open_live(bestInterface, 999999, False, 50)
+    sniffer.setfilter("udp")
+
+    print("Listening for packets... Press any key to stop")
+
+    #*****WRITE THE CODE HERE*******
+
+    try:
+        real_iface = resolve_real_interface(bestInterface)
+
+        if real_iface is None:
+            raise Exception(f"Could not map NPCAP interface '{bestInterface}' to a real interface name.")
+
+        address = netifaces.ifaddresses(bestInterface)
+        myIP = address[netifaces.AF_INET][0]['addr']
+
+    except:
+        raise Exception("Could not determine you IP address! what? how?")
+
+    logFile = open("traffic_log.jsonl", "a")
+
+    try:
+        sniffer.loop(0, packet_handle(myIP, logFile))
+    except KeyboardInterrupt:
+        print("\nStopping capture...")
+    
+    logFile.close()
+
+main()
