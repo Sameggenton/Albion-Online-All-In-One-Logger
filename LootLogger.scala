@@ -26,8 +26,8 @@ object LootLogger {
 
 
     def main (args: Array[String]) : Unit = {
-
-        
+        //start time
+        val start_time = System.nanoTime()
 
         //file reading
         val filePath = "loot-events-2025-12-04-11-07-27.txt"
@@ -35,11 +35,12 @@ object LootLogger {
 
         val player_list = ListBuffer[player_inventory]()
         var count = 0;
+
+        //begin input
         lines.foreach { line =>
             if (count == 0){
                 count = 1
                 // skip header line
-                println("skipped header")
                 
             }
             else{
@@ -59,7 +60,8 @@ object LootLogger {
                 }
                 
 
-
+                //create temp variable to hold player data from input
+                //scala version of a switch, if player name found, use it, otherwise create a new one
                 val player = player_list.find(_.player_name == name) match {
                     case Some(p) => p
                     case None =>{
@@ -71,7 +73,9 @@ object LootLogger {
                         p
                     }
                 }
+                
 
+                //Scala version of a switch. If the item exists in the player's inventory, then add to the existing item's quantity. Else, create a new item.
                 player.item_list.find(_.name == itemName) match {
                     case Some(existingItem) =>{
                         existingItem.quantity += quantity
@@ -84,18 +88,11 @@ object LootLogger {
     
         
 
-                player.item_list.find(_.name == itemName) match {
-                    case Some(existingItem) =>{
-                        existingItem.quantity += quantity
-                    }
-                    case None =>{
-                        player.item_list += new item(itemName, quantity)
-                    }
-                }
-
             }
             
         }
+
+        val input_time = System.nanoTime()
 
         //now print all data in loot_events to .txt file
         val outputFile = new File("loot_events_summary_scala.txt")
@@ -108,6 +105,17 @@ object LootLogger {
         }
         writer.close()
 
+        val end_time = System.nanoTime()
+
+        val total_duration = (end_time - start_time)
+
+        val input_duration = (input_time - start_time)
+
+        val output_duration = (end_time - input_time)
+
+        println(s"Total processing time: $total_duration nanoseconds")
+        println(s"Input processing time: $input_duration nanoseconds")
+        println(s"Output processing time: $output_duration nanoseconds")
 
     }
 }
