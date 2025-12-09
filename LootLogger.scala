@@ -2,6 +2,8 @@ import scala.collection.mutable.ListBuffer
 import scala.io.Source
 import scala.util.boundary
 
+import java.io.{File, PrintWriter}
+
 
     
 object LootLogger {
@@ -95,13 +97,17 @@ object LootLogger {
             
         }
 
-        //now print all data in loot_events
-
+        //now print all data in loot_events to .txt file
+        val outputFile = new File("loot_events_summary.txt")
+        val writer = new PrintWriter(outputFile)
         player_list.foreach { event =>
-            println(s"Player: ${event.player_name}, Alliance: ${event.alliance}, Guild: ${event.guild}")
+            writer.println(s"Player: ${event.player_name}, Alliance: ${event.alliance}, Guild: ${event.guild}")
             event.item_list.foreach { item =>
-                println(s"  Item: ${item.name}, Quantity: ${item.quantity}")
+                writer.println(s"  Item: ${item.name}, Quantity: ${item.quantity}")
             }
-        }       
+        }
+        writer.close()
+
+
     }
 }

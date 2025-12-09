@@ -1,0 +1,147 @@
+Player: Deknight, Alliance: none, Guild: Technique
+  Item: Avalonian Energy, Quantity: 48
+  Item: Adept's Soul, Quantity: 60
+  Item: Adept's Rune, Quantity: 184
+  Item: Master's Rune, Quantity: 32
+  Item: Expert's Rune, Quantity: 88
+  Item: Simple Stone Toy, Quantity: 2
+  Item: Corrupted Scroll, Quantity: 6
+  Item: T8_RANDOM_DUNGEON_SOLO_TOKEN_D2@2, Quantity: 4
+  Item: Adept's Relic, Quantity: 18
+  Item: Expert's Avalonian Shard, Quantity: 8
+  Item: Expert's Soul, Quantity: 32
+  Item: Expert's Relic, Quantity: 14
+  Item: Adept's Avalonian Shard, Quantity: 14
+  Item: Ritual Candles, Quantity: 2
+  Item: Stone Mask, Quantity: 2
+  Item: Master's Relic, Quantity: 4
+  Item: Master's Soul, Quantity: 6
+  Item: Feather Talisman, Quantity: 2
+  Item: Master's Avalonian Shard, Quantity: 4
+  Item: Grandmaster's Rune, Quantity: 2
+  Item: Ornamental Scepter, Quantity: 2
+Player: XoGoKuoX, Alliance: none, Guild: Technique
+  Item: Master's Rune, Quantity: 38
+  Item: Adept's Rune, Quantity: 192
+  Item: Expert's Rune, Quantity: 78
+  Item: Adept's Relic, Quantity: 22
+  Item: Master's Soul, Quantity: 12
+  Item: Adept's Soul, Quantity: 50
+  Item: Expert's Soul, Quantity: 28
+  Item: Master's Battleaxe, Quantity: 2
+  Item: Expert's Relic, Quantity: 6
+  Item: Avalonian Energy, Quantity: 42
+  Item: Grandmaster's Rune, Quantity: 2
+  Item: Master's Avalonian Shard, Quantity: 2
+  Item: Stone Idol, Quantity: 2
+  Item: Adept's Avalonian Shard, Quantity: 24
+  Item: Ritual Candles, Quantity: 8
+  Item: Expert's Avalonian Shard, Quantity: 10
+  Item: Master's Relic, Quantity: 4
+  Item: Corrupted Scroll, Quantity: 4
+  Item: Expert's Avalonian Crest, Quantity: 2
+  Item: Feather Talisman, Quantity: 4
+  Item: Globus Cruciger, Quantity: 2
+  Item: Adept's Tome of Insight, Quantity: 2
+Player: reiOenkow, Alliance: none, Guild: Technique
+  Item: Adept's Rune, Quantity: 166
+  Item: Adept's Soul, Quantity: 62
+  Item: Expert's Relic, Quantity: 12
+  Item: Avalonian Energy, Quantity: 46
+  Item: Master's Rune, Quantity: 46
+  Item: Simple Stone Toy, Quantity: 4
+  Item: Expert's Avalonian Shard, Quantity: 10
+  Item: Expert's Rune, Quantity: 84
+  Item: Adept's Relic, Quantity: 30
+  Item: Adept's Avalonian Shard, Quantity: 20
+  Item: Expert's Soul, Quantity: 32
+  Item: Adept's Tome of Insight, Quantity: 8
+  Item: Thin Booklet, Quantity: 2
+  Item: Master's Soul, Quantity: 14
+  Item: Ornamental Scepter, Quantity: 2
+  Item: Feather Talisman, Quantity: 2
+  Item: Golden Crown, Quantity: 2
+Player: proplayerr06, Alliance: none, Guild: Noob Family
+  Item: Master's Rune, Quantity: 32
+  Item: Expert's Rune, Quantity: 98
+  Item: Expert's Soul, Quantity: 18
+  Item: Master's Relic, Quantity: 4
+  Item: Adept's Soul, Quantity: 44
+  Item: Adept's Relic, Quantity: 12
+  Item: Expert's Relic, Quantity: 2
+  Item: Avalonian Energy, Quantity: 40
+  Item: Master's Soul, Quantity: 8
+  Item: Master's Cleric Cowl, Quantity: 2
+Player: DontBlameMe, Alliance: FCKU, Guild: Mid
+  Item: Adept's Relic, Quantity: 18
+  Item: Avalonian Energy, Quantity: 54
+  Item: Expert's Soul, Quantity: 30
+  Item: Master's Rune, Quantity: 34
+  Item: Grandmaster's Relic, Quantity: 2
+  Item: Master's Relic, Quantity: 8
+  Item: Master's Soul, Quantity: 8
+  Item: Grandmaster's Rune, Quantity: 6
+  Item: Grandmaster's Soul, Quantity: 2
+  Item: Expert's Relic, Quantity: 6
+  Item: Adept's Tome of Insight, Quantity: 2
+  Item: Dreamcatcher, Quantity: 2
+  Item: Elder's Assassin Jacket, Quantity: 4
+Player: Bigshots271, Alliance: 638841636980653197, Guild: QUILL
+  Item: Avalonian Energy, Quantity: 24
+  Item: Master's Rune, Quantity: 22
+  Item: Expert's Relic, Quantity: 2
+  Item: Adept's Relic, Quantity: 10
+  Item: Master's Relic, Quantity: 2
+  Item: Master's Soul, Quantity: 6
+  Item: Grandmaster's Rune, Quantity: 4
+  Item: Adept's Tome of Insight, Quantity: 2
+  Item: Expert's Soul, Quantity: 4
+  Item: Dreamcatcher, Quantity: 2
+Player: skrillaz, Alliance: CRIT, Guild: COALITION
+  Item: Adept's Relic, Quantity: 22
+  Item: Avalonian Energy, Quantity: 32
+  Item: Expert's Soul, Quantity: 6
+  Item: Expert's Rune, Quantity: 4
+  Item: Master's Soul, Quantity: 14
+  Item: Master's Rune, Quantity: 32
+  Item: Sacrificial Dagger, Quantity: 2
+  Item: Expert's Relic, Quantity: 10
+  Item: Grandmaster's Mercenary Shoes, Quantity: 2
+  Item: Adept's Tome of Insight, Quantity: 4
+  Item: Master's Relic, Quantity: 2
+  Item: Grandmaster's Rune, Quantity: 2
+  Item: Master's Avalonian Shard, Quantity: 2
+  Item: Globus Cruciger, Quantity: 2
+Player: OchipiceR, Alliance: none, Guild: Technique
+  Item: Avalonian Energy, Quantity: 38
+  Item: Grandmaster's Mercenary Hood, Quantity: 2
+Player: Altair917, Alliance: none, Guild: Technique
+  Item: Expert's Soul, Quantity: 16
+  Item: Expert's Relic, Quantity: 4
+  Item: Elder's Rune, Quantity: 2
+  Item: Grandmaster's Rune, Quantity: 6
+  Item: Avalonian Energy, Quantity: 32
+  Item: Master's Soul, Quantity: 10
+  Item: Master's Longbow, Quantity: 2
+  Item: Master's Relic, Quantity: 4
+  Item: Adept's Tome of Insight, Quantity: 4
+  Item: Blood Chalice, Quantity: 4
+  Item: Dreamcatcher, Quantity: 2
+  Item: Sacrificial Dagger, Quantity: 2
+Player: reNameLess, Alliance: none, Guild: Technique
+  Item: Adept's Relic, Quantity: 22
+  Item: Avalonian Energy, Quantity: 52
+  Item: Expert's Avalonian Shard, Quantity: 16
+  Item: Master's Rune, Quantity: 24
+  Item: Expert's Soul, Quantity: 8
+  Item: Adept's Avalonian Shard, Quantity: 20
+  Item: Expert's Relic, Quantity: 16
+  Item: Adept's Tome of Insight, Quantity: 4
+  Item: Adept's Soul, Quantity: 2
+  Item: Master's Soul, Quantity: 4
+  Item: Grandmaster's Rune, Quantity: 4
+  Item: Adept's Rune, Quantity: 2
+  Item: Expert's Rune, Quantity: 2
+  Item: Grandmaster's Bag, Quantity: 2
+  Item: Master's Avalonian Shard, Quantity: 2
+  Item: Grandmaster's Soul, Quantity: 2
