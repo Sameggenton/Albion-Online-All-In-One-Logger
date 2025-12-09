@@ -1,4 +1,5 @@
 import time
+import psutil
 
 # represents an item that has been picked up
 class item:
@@ -30,12 +31,13 @@ class item:
 class player_inv:
 
     # holds all items a player has picked up according to the log
-    items = []
 
     def __init__(self, name = "NONAME", alliance = "NOALLIANCE", guild = "NOGUILD"):
         self.name = name
         self.alliance = alliance
         self.guild = guild
+        self.items = []
+
 
     def getName(self):
         return self.name
@@ -87,6 +89,10 @@ players = []
 playerNames = []
 
                         # ***Main loop of reading and processing file***
+start_main = time.perf_counter_ns() # all perf_counter uses are for measuring program performance in different aspects
+start_read = time.perf_counter_ns()
+process = psutil.Process() # Will be used to measure memory usage
+
 try:
     with open(inFile, 'r') as file:
 
@@ -133,11 +139,13 @@ except FileNotFoundError:
 except Exception as e:
     print(f"An error occurred: {e}")
 
+end_read = time.perf_counter_ns()
 
 
 
                                 # ***File output***
 
+start_output = time.perf_counter_ns()
 
 #name of output file, can be whatever you want
 outFile = "Python_Lootlog.txt"
@@ -167,3 +175,19 @@ try:
 # in case file creation fails for some reason
 except Exception as e:
     print(f"An error occurred: {e}")
+
+end_output = time.perf_counter_ns()
+end_main = time.perf_counter_ns()
+
+# Printing measurement results to console
+mb = 1024 * 1024
+main_total = (end_main - start_main) # should be in nanoseconds...
+read_total = round((end_read - start_read), 2)
+output_total = round((end_output - start_output), 2) 
+mem_usage = round(process.memory_info().rss / mb, 2)
+
+print("PROGRAM METRICS:")
+print("    Whole program time: " + str(main_total) + " nanoseconds")
+print("    File reading and sorting time: " + str(read_total) + " nanoseconds")
+print("    File output time: " + str(output_total) + " nanoseconds")
+print("    Memory usage: " + str(mem_usage) + " megabytes")
