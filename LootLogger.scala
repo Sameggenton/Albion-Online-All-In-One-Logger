@@ -98,7 +98,7 @@ object LootLogger {
         }
 
         //now print all data in loot_events to .txt file
-        val outputFile = new File("loot_events_summary.txt")
+        val outputFile = new File("loot_events_summary_scala.txt")
         val writer = new PrintWriter(outputFile)
         player_list.foreach { event =>
             writer.println(s"Player: ${event.player_name}, Alliance: ${event.alliance}, Guild: ${event.guild}")
