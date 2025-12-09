@@ -7,3 +7,5 @@ SAM:
 "What does netifaces do? Can I use it on windows?"
 
 "when choosing an interface for NPCAP to capture from, how do I know which ones connect to the internet? How should the program know which one to choose?"
+
+"If I have a list that is all one string separated by semicolons, how do I use python to separate out each element?"
