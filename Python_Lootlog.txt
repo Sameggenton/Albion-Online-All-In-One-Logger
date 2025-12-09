@@ -1,1220 +1,820 @@
 PLAYER: Deknight    ALLIANCE: NOALLIANCE    GUILD: Technique
    Item: Avalonian Energy
-       Tier: QUESTITEM_TOKEN_AVALON
        Qty : 204
    Item: Master's Rune
-       Tier: T6_RUNE
        Qty : 130
    Item: Adept's Rune
-       Tier: T4_RUNE
        Qty : 272
    Item: Adept's Soul
-       Tier: T4_SOUL
        Qty : 109
    Item: Expert's Rune
-       Tier: T5_RUNE
        Qty : 177
    Item: Expert's Relic
-       Tier: T5_RELIC
        Qty : 36
    Item: Expert's Soul
-       Tier: T5_SOUL
        Qty : 87
    Item: Adept's Relic
-       Tier: T4_RELIC
        Qty : 77
    Item: Simple Stone Toy
-       Tier: TREASURE_DECORATIVE_RARITY1
        Qty : 3
    Item: Corrupted Scroll
-       Tier: TREASURE_KNOWLEDGE_RARITY1
        Qty : 5
    Item: Master's Soul
-       Tier: T6_SOUL
        Qty : 41
    Item: Expert's Avalonian Shard
-       Tier: T5_SHARD_AVALONIAN
        Qty : 22
    Item: T8_RANDOM_DUNGEON_SOLO_TOKEN_D2@2
-       Tier: T8_RANDOM_DUNGEON_SOLO_TOKEN_D2@2
        Qty : 2
    Item: Master's Battleaxe
-       Tier: T6_MAIN_AXE
        Qty : 1
    Item: Master's Relic
-       Tier: T6_RELIC
        Qty : 14
    Item: Elder's Rune
-       Tier: T8_RUNE
        Qty : 1
    Item: Grandmaster's Mercenary Hood
-       Tier: T7_HEAD_LEATHER_SET1@1
        Qty : 1
    Item: Grandmaster's Rune
-       Tier: T7_RUNE
        Qty : 13
    Item: Adept's Avalonian Shard
-       Tier: T4_SHARD_AVALONIAN
        Qty : 39
    Item: Master's Longbow
-       Tier: T6_2H_LONGBOW
        Qty : 1
    Item: Master's Avalonian Shard
-       Tier: T6_SHARD_AVALONIAN
        Qty : 5
    Item: Adept's Tome of Insight
-       Tier: T4_SKILLBOOK_STANDARD
        Qty : 13
    Item: Sacrificial Dagger
-       Tier: TREASURE_RITUAL_RARITY3
        Qty : 2
    Item: Grandmaster's Relic
-       Tier: T7_RELIC
        Qty : 1
    Item: Thin Booklet
-       Tier: TREASURE_KNOWLEDGE_RARITY2
        Qty : 1
    Item: Stone Idol
-       Tier: TREASURE_DECORATIVE_RARITY3
        Qty : 1
    Item: Grandmaster's Mercenary Shoes
-       Tier: T7_SHOES_LEATHER_SET1
        Qty : 1
    Item: Ritual Candles
-       Tier: TREASURE_RITUAL_RARITY1
        Qty : 5
    Item: Ornamental Scepter
-       Tier: TREASURE_CEREMONIAL_RARITY1
        Qty : 2
    Item: Grandmaster's Soul
-       Tier: T7_SOUL
        Qty : 2
    Item: Stone Mask
-       Tier: TREASURE_DECORATIVE_RARITY2
        Qty : 1
    Item: Feather Talisman
-       Tier: TREASURE_TRIBAL_RARITY1
        Qty : 4
    Item: Expert's Avalonian Crest
-       Tier: T5_CAPEITEM_AVALON_BP
        Qty : 1
    Item: Grandmaster's Bag
-       Tier: T7_BAG@1
        Qty : 1
    Item: Dreamcatcher
-       Tier: TREASURE_TRIBAL_RARITY2
        Qty : 3
    Item: Blood Chalice
-       Tier: TREASURE_RITUAL_RARITY2
        Qty : 2
    Item: Elder's Assassin Jacket
-       Tier: T8_ARMOR_LEATHER_SET3
        Qty : 2
    Item: Globus Cruciger
-       Tier: TREASURE_CEREMONIAL_RARITY2
        Qty : 2
    Item: Golden Crown
-       Tier: TREASURE_CEREMONIAL_RARITY3
        Qty : 1
    Item: Master's Cleric Cowl
-       Tier: T6_HEAD_CLOTH_SET2
        Qty : 1
 
 PLAYER: XoGoKuoX    ALLIANCE: NOALLIANCE    GUILD: Technique
    Item: Avalonian Energy
-       Tier: QUESTITEM_TOKEN_AVALON
        Qty : 204
    Item: Master's Rune
-       Tier: T6_RUNE
        Qty : 130
    Item: Adept's Rune
-       Tier: T4_RUNE
        Qty : 272
    Item: Adept's Soul
-       Tier: T4_SOUL
        Qty : 109
    Item: Expert's Rune
-       Tier: T5_RUNE
        Qty : 177
    Item: Expert's Relic
-       Tier: T5_RELIC
        Qty : 36
    Item: Expert's Soul
-       Tier: T5_SOUL
        Qty : 87
    Item: Adept's Relic
-       Tier: T4_RELIC
        Qty : 77
    Item: Simple Stone Toy
-       Tier: TREASURE_DECORATIVE_RARITY1
        Qty : 3
    Item: Corrupted Scroll
-       Tier: TREASURE_KNOWLEDGE_RARITY1
        Qty : 5
    Item: Master's Soul
-       Tier: T6_SOUL
        Qty : 41
    Item: Expert's Avalonian Shard
-       Tier: T5_SHARD_AVALONIAN
        Qty : 22
    Item: T8_RANDOM_DUNGEON_SOLO_TOKEN_D2@2
-       Tier: T8_RANDOM_DUNGEON_SOLO_TOKEN_D2@2
        Qty : 2
    Item: Master's Battleaxe
-       Tier: T6_MAIN_AXE
        Qty : 1
    Item: Master's Relic
-       Tier: T6_RELIC
        Qty : 14
    Item: Elder's Rune
-       Tier: T8_RUNE
        Qty : 1
    Item: Grandmaster's Mercenary Hood
-       Tier: T7_HEAD_LEATHER_SET1@1
        Qty : 1
    Item: Grandmaster's Rune
-       Tier: T7_RUNE
        Qty : 13
    Item: Adept's Avalonian Shard
-       Tier: T4_SHARD_AVALONIAN
        Qty : 39
    Item: Master's Longbow
-       Tier: T6_2H_LONGBOW
        Qty : 1
    Item: Master's Avalonian Shard
-       Tier: T6_SHARD_AVALONIAN
        Qty : 5
    Item: Adept's Tome of Insight
-       Tier: T4_SKILLBOOK_STANDARD
        Qty : 13
    Item: Sacrificial Dagger
-       Tier: TREASURE_RITUAL_RARITY3
        Qty : 2
    Item: Grandmaster's Relic
-       Tier: T7_RELIC
        Qty : 1
    Item: Thin Booklet
-       Tier: TREASURE_KNOWLEDGE_RARITY2
        Qty : 1
    Item: Stone Idol
-       Tier: TREASURE_DECORATIVE_RARITY3
        Qty : 1
    Item: Grandmaster's Mercenary Shoes
-       Tier: T7_SHOES_LEATHER_SET1
        Qty : 1
    Item: Ritual Candles
-       Tier: TREASURE_RITUAL_RARITY1
        Qty : 5
    Item: Ornamental Scepter
-       Tier: TREASURE_CEREMONIAL_RARITY1
        Qty : 2
    Item: Grandmaster's Soul
-       Tier: T7_SOUL
        Qty : 2
    Item: Stone Mask
-       Tier: TREASURE_DECORATIVE_RARITY2
        Qty : 1
    Item: Feather Talisman
-       Tier: TREASURE_TRIBAL_RARITY1
        Qty : 4
    Item: Expert's Avalonian Crest
-       Tier: T5_CAPEITEM_AVALON_BP
        Qty : 1
    Item: Grandmaster's Bag
-       Tier: T7_BAG@1
        Qty : 1
    Item: Dreamcatcher
-       Tier: TREASURE_TRIBAL_RARITY2
        Qty : 3
    Item: Blood Chalice
-       Tier: TREASURE_RITUAL_RARITY2
        Qty : 2
    Item: Elder's Assassin Jacket
-       Tier: T8_ARMOR_LEATHER_SET3
        Qty : 2
    Item: Globus Cruciger
-       Tier: TREASURE_CEREMONIAL_RARITY2
        Qty : 2
    Item: Golden Crown
-       Tier: TREASURE_CEREMONIAL_RARITY3
        Qty : 1
    Item: Master's Cleric Cowl
-       Tier: T6_HEAD_CLOTH_SET2
        Qty : 1
 
 PLAYER: reiOenkow    ALLIANCE: NOALLIANCE    GUILD: Technique
    Item: Avalonian Energy
-       Tier: QUESTITEM_TOKEN_AVALON
        Qty : 204
    Item: Master's Rune
-       Tier: T6_RUNE
        Qty : 130
    Item: Adept's Rune
-       Tier: T4_RUNE
        Qty : 272
    Item: Adept's Soul
-       Tier: T4_SOUL
        Qty : 109
    Item: Expert's Rune
-       Tier: T5_RUNE
        Qty : 177
    Item: Expert's Relic
-       Tier: T5_RELIC
        Qty : 36
    Item: Expert's Soul
-       Tier: T5_SOUL
        Qty : 87
    Item: Adept's Relic
-       Tier: T4_RELIC
        Qty : 77
    Item: Simple Stone Toy
-       Tier: TREASURE_DECORATIVE_RARITY1
        Qty : 3
    Item: Corrupted Scroll
-       Tier: TREASURE_KNOWLEDGE_RARITY1
        Qty : 5
    Item: Master's Soul
-       Tier: T6_SOUL
        Qty : 41
    Item: Expert's Avalonian Shard
-       Tier: T5_SHARD_AVALONIAN
        Qty : 22
    Item: T8_RANDOM_DUNGEON_SOLO_TOKEN_D2@2
-       Tier: T8_RANDOM_DUNGEON_SOLO_TOKEN_D2@2
        Qty : 2
    Item: Master's Battleaxe
-       Tier: T6_MAIN_AXE
        Qty : 1
    Item: Master's Relic
-       Tier: T6_RELIC
        Qty : 14
    Item: Elder's Rune
-       Tier: T8_RUNE
        Qty : 1
    Item: Grandmaster's Mercenary Hood
-       Tier: T7_HEAD_LEATHER_SET1@1
        Qty : 1
    Item: Grandmaster's Rune
-       Tier: T7_RUNE
        Qty : 13
    Item: Adept's Avalonian Shard
-       Tier: T4_SHARD_AVALONIAN
        Qty : 39
    Item: Master's Longbow
-       Tier: T6_2H_LONGBOW
        Qty : 1
    Item: Master's Avalonian Shard
-       Tier: T6_SHARD_AVALONIAN
        Qty : 5
    Item: Adept's Tome of Insight
-       Tier: T4_SKILLBOOK_STANDARD
        Qty : 13
    Item: Sacrificial Dagger
-       Tier: TREASURE_RITUAL_RARITY3
        Qty : 2
    Item: Grandmaster's Relic
-       Tier: T7_RELIC
        Qty : 1
    Item: Thin Booklet
-       Tier: TREASURE_KNOWLEDGE_RARITY2
        Qty : 1
    Item: Stone Idol
-       Tier: TREASURE_DECORATIVE_RARITY3
        Qty : 1
    Item: Grandmaster's Mercenary Shoes
-       Tier: T7_SHOES_LEATHER_SET1
        Qty : 1
    Item: Ritual Candles
-       Tier: TREASURE_RITUAL_RARITY1
        Qty : 5
    Item: Ornamental Scepter
-       Tier: TREASURE_CEREMONIAL_RARITY1
        Qty : 2
    Item: Grandmaster's Soul
-       Tier: T7_SOUL
        Qty : 2
    Item: Stone Mask
-       Tier: TREASURE_DECORATIVE_RARITY2
        Qty : 1
    Item: Feather Talisman
-       Tier: TREASURE_TRIBAL_RARITY1
        Qty : 4
    Item: Expert's Avalonian Crest
-       Tier: T5_CAPEITEM_AVALON_BP
        Qty : 1
    Item: Grandmaster's Bag
-       Tier: T7_BAG@1
        Qty : 1
    Item: Dreamcatcher
-       Tier: TREASURE_TRIBAL_RARITY2
        Qty : 3
    Item: Blood Chalice
-       Tier: TREASURE_RITUAL_RARITY2
        Qty : 2
    Item: Elder's Assassin Jacket
-       Tier: T8_ARMOR_LEATHER_SET3
        Qty : 2
    Item: Globus Cruciger
-       Tier: TREASURE_CEREMONIAL_RARITY2
        Qty : 2
    Item: Golden Crown
-       Tier: TREASURE_CEREMONIAL_RARITY3
        Qty : 1
    Item: Master's Cleric Cowl
-       Tier: T6_HEAD_CLOTH_SET2
        Qty : 1
 
 PLAYER: proplayerr06    ALLIANCE: NOALLIANCE    GUILD: Noob Family
    Item: Avalonian Energy
-       Tier: QUESTITEM_TOKEN_AVALON
        Qty : 204
    Item: Master's Rune
-       Tier: T6_RUNE
        Qty : 130
    Item: Adept's Rune
-       Tier: T4_RUNE
        Qty : 272
    Item: Adept's Soul
-       Tier: T4_SOUL
        Qty : 109
    Item: Expert's Rune
-       Tier: T5_RUNE
        Qty : 177
    Item: Expert's Relic
-       Tier: T5_RELIC
        Qty : 36
    Item: Expert's Soul
-       Tier: T5_SOUL
        Qty : 87
    Item: Adept's Relic
-       Tier: T4_RELIC
        Qty : 77
    Item: Simple Stone Toy
-       Tier: TREASURE_DECORATIVE_RARITY1
        Qty : 3
    Item: Corrupted Scroll
-       Tier: TREASURE_KNOWLEDGE_RARITY1
        Qty : 5
    Item: Master's Soul
-       Tier: T6_SOUL
        Qty : 41
    Item: Expert's Avalonian Shard
-       Tier: T5_SHARD_AVALONIAN
        Qty : 22
    Item: T8_RANDOM_DUNGEON_SOLO_TOKEN_D2@2
-       Tier: T8_RANDOM_DUNGEON_SOLO_TOKEN_D2@2
        Qty : 2
    Item: Master's Battleaxe
-       Tier: T6_MAIN_AXE
        Qty : 1
    Item: Master's Relic
-       Tier: T6_RELIC
        Qty : 14
    Item: Elder's Rune
-       Tier: T8_RUNE
        Qty : 1
    Item: Grandmaster's Mercenary Hood
-       Tier: T7_HEAD_LEATHER_SET1@1
        Qty : 1
    Item: Grandmaster's Rune
-       Tier: T7_RUNE
        Qty : 13
    Item: Adept's Avalonian Shard
-       Tier: T4_SHARD_AVALONIAN
        Qty : 39
    Item: Master's Longbow
-       Tier: T6_2H_LONGBOW
        Qty : 1
    Item: Master's Avalonian Shard
-       Tier: T6_SHARD_AVALONIAN
        Qty : 5
    Item: Adept's Tome of Insight
-       Tier: T4_SKILLBOOK_STANDARD
        Qty : 13
    Item: Sacrificial Dagger
-       Tier: TREASURE_RITUAL_RARITY3
        Qty : 2
    Item: Grandmaster's Relic
-       Tier: T7_RELIC
        Qty : 1
    Item: Thin Booklet
-       Tier: TREASURE_KNOWLEDGE_RARITY2
        Qty : 1
    Item: Stone Idol
-       Tier: TREASURE_DECORATIVE_RARITY3
        Qty : 1
    Item: Grandmaster's Mercenary Shoes
-       Tier: T7_SHOES_LEATHER_SET1
        Qty : 1
    Item: Ritual Candles
-       Tier: TREASURE_RITUAL_RARITY1
        Qty : 5
    Item: Ornamental Scepter
-       Tier: TREASURE_CEREMONIAL_RARITY1
        Qty : 2
    Item: Grandmaster's Soul
-       Tier: T7_SOUL
        Qty : 2
    Item: Stone Mask
-       Tier: TREASURE_DECORATIVE_RARITY2
        Qty : 1
    Item: Feather Talisman
-       Tier: TREASURE_TRIBAL_RARITY1
        Qty : 4
    Item: Expert's Avalonian Crest
-       Tier: T5_CAPEITEM_AVALON_BP
        Qty : 1
    Item: Grandmaster's Bag
-       Tier: T7_BAG@1
        Qty : 1
    Item: Dreamcatcher
-       Tier: TREASURE_TRIBAL_RARITY2
        Qty : 3
    Item: Blood Chalice
-       Tier: TREASURE_RITUAL_RARITY2
        Qty : 2
    Item: Elder's Assassin Jacket
-       Tier: T8_ARMOR_LEATHER_SET3
        Qty : 2
    Item: Globus Cruciger
-       Tier: TREASURE_CEREMONIAL_RARITY2
        Qty : 2
    Item: Golden Crown
-       Tier: TREASURE_CEREMONIAL_RARITY3
        Qty : 1
    Item: Master's Cleric Cowl
-       Tier: T6_HEAD_CLOTH_SET2
        Qty : 1
 
 PLAYER: DontBlameMe    ALLIANCE: FCKU    GUILD: Mid
    Item: Avalonian Energy
-       Tier: QUESTITEM_TOKEN_AVALON
        Qty : 204
    Item: Master's Rune
-       Tier: T6_RUNE
        Qty : 130
    Item: Adept's Rune
-       Tier: T4_RUNE
        Qty : 272
    Item: Adept's Soul
-       Tier: T4_SOUL
        Qty : 109
    Item: Expert's Rune
-       Tier: T5_RUNE
        Qty : 177
    Item: Expert's Relic
-       Tier: T5_RELIC
        Qty : 36
    Item: Expert's Soul
-       Tier: T5_SOUL
        Qty : 87
    Item: Adept's Relic
-       Tier: T4_RELIC
        Qty : 77
    Item: Simple Stone Toy
-       Tier: TREASURE_DECORATIVE_RARITY1
        Qty : 3
    Item: Corrupted Scroll
-       Tier: TREASURE_KNOWLEDGE_RARITY1
        Qty : 5
    Item: Master's Soul
-       Tier: T6_SOUL
        Qty : 41
    Item: Expert's Avalonian Shard
-       Tier: T5_SHARD_AVALONIAN
        Qty : 22
    Item: T8_RANDOM_DUNGEON_SOLO_TOKEN_D2@2
-       Tier: T8_RANDOM_DUNGEON_SOLO_TOKEN_D2@2
        Qty : 2
    Item: Master's Battleaxe
-       Tier: T6_MAIN_AXE
        Qty : 1
    Item: Master's Relic
-       Tier: T6_RELIC
        Qty : 14
    Item: Elder's Rune
-       Tier: T8_RUNE
        Qty : 1
    Item: Grandmaster's Mercenary Hood
-       Tier: T7_HEAD_LEATHER_SET1@1
        Qty : 1
    Item: Grandmaster's Rune
-       Tier: T7_RUNE
        Qty : 13
    Item: Adept's Avalonian Shard
-       Tier: T4_SHARD_AVALONIAN
        Qty : 39
    Item: Master's Longbow
-       Tier: T6_2H_LONGBOW
        Qty : 1
    Item: Master's Avalonian Shard
-       Tier: T6_SHARD_AVALONIAN
        Qty : 5
    Item: Adept's Tome of Insight
-       Tier: T4_SKILLBOOK_STANDARD
        Qty : 13
    Item: Sacrificial Dagger
-       Tier: TREASURE_RITUAL_RARITY3
        Qty : 2
    Item: Grandmaster's Relic
-       Tier: T7_RELIC
        Qty : 1
    Item: Thin Booklet
-       Tier: TREASURE_KNOWLEDGE_RARITY2
        Qty : 1
    Item: Stone Idol
-       Tier: TREASURE_DECORATIVE_RARITY3
        Qty : 1
    Item: Grandmaster's Mercenary Shoes
-       Tier: T7_SHOES_LEATHER_SET1
        Qty : 1
    Item: Ritual Candles
-       Tier: TREASURE_RITUAL_RARITY1
        Qty : 5
    Item: Ornamental Scepter
-       Tier: TREASURE_CEREMONIAL_RARITY1
        Qty : 2
    Item: Grandmaster's Soul
-       Tier: T7_SOUL
        Qty : 2
    Item: Stone Mask
-       Tier: TREASURE_DECORATIVE_RARITY2
        Qty : 1
    Item: Feather Talisman
-       Tier: TREASURE_TRIBAL_RARITY1
        Qty : 4
    Item: Expert's Avalonian Crest
-       Tier: T5_CAPEITEM_AVALON_BP
        Qty : 1
    Item: Grandmaster's Bag
-       Tier: T7_BAG@1
        Qty : 1
    Item: Dreamcatcher
-       Tier: TREASURE_TRIBAL_RARITY2
        Qty : 3
    Item: Blood Chalice
-       Tier: TREASURE_RITUAL_RARITY2
        Qty : 2
    Item: Elder's Assassin Jacket
-       Tier: T8_ARMOR_LEATHER_SET3
        Qty : 2
    Item: Globus Cruciger
-       Tier: TREASURE_CEREMONIAL_RARITY2
        Qty : 2
    Item: Golden Crown
-       Tier: TREASURE_CEREMONIAL_RARITY3
        Qty : 1
    Item: Master's Cleric Cowl
-       Tier: T6_HEAD_CLOTH_SET2
        Qty : 1
 
 PLAYER: Bigshots271    ALLIANCE: 638841636980653197    GUILD: QUILL
    Item: Avalonian Energy
-       Tier: QUESTITEM_TOKEN_AVALON
        Qty : 204
    Item: Master's Rune
-       Tier: T6_RUNE
        Qty : 130
    Item: Adept's Rune
-       Tier: T4_RUNE
        Qty : 272
    Item: Adept's Soul
-       Tier: T4_SOUL
        Qty : 109
    Item: Expert's Rune
-       Tier: T5_RUNE
        Qty : 177
    Item: Expert's Relic
-       Tier: T5_RELIC
        Qty : 36
    Item: Expert's Soul
-       Tier: T5_SOUL
        Qty : 87
    Item: Adept's Relic
-       Tier: T4_RELIC
        Qty : 77
    Item: Simple Stone Toy
-       Tier: TREASURE_DECORATIVE_RARITY1
        Qty : 3
    Item: Corrupted Scroll
-       Tier: TREASURE_KNOWLEDGE_RARITY1
        Qty : 5
    Item: Master's Soul
-       Tier: T6_SOUL
        Qty : 41
    Item: Expert's Avalonian Shard
-       Tier: T5_SHARD_AVALONIAN
        Qty : 22
    Item: T8_RANDOM_DUNGEON_SOLO_TOKEN_D2@2
-       Tier: T8_RANDOM_DUNGEON_SOLO_TOKEN_D2@2
        Qty : 2
    Item: Master's Battleaxe
-       Tier: T6_MAIN_AXE
        Qty : 1
    Item: Master's Relic
-       Tier: T6_RELIC
        Qty : 14
    Item: Elder's Rune
-       Tier: T8_RUNE
        Qty : 1
    Item: Grandmaster's Mercenary Hood
-       Tier: T7_HEAD_LEATHER_SET1@1
        Qty : 1
    Item: Grandmaster's Rune
-       Tier: T7_RUNE
        Qty : 13
    Item: Adept's Avalonian Shard
-       Tier: T4_SHARD_AVALONIAN
        Qty : 39
    Item: Master's Longbow
-       Tier: T6_2H_LONGBOW
        Qty : 1
    Item: Master's Avalonian Shard
-       Tier: T6_SHARD_AVALONIAN
        Qty : 5
    Item: Adept's Tome of Insight
-       Tier: T4_SKILLBOOK_STANDARD
        Qty : 13
    Item: Sacrificial Dagger
-       Tier: TREASURE_RITUAL_RARITY3
        Qty : 2
    Item: Grandmaster's Relic
-       Tier: T7_RELIC
        Qty : 1
    Item: Thin Booklet
-       Tier: TREASURE_KNOWLEDGE_RARITY2
        Qty : 1
    Item: Stone Idol
-       Tier: TREASURE_DECORATIVE_RARITY3
        Qty : 1
    Item: Grandmaster's Mercenary Shoes
-       Tier: T7_SHOES_LEATHER_SET1
        Qty : 1
    Item: Ritual Candles
-       Tier: TREASURE_RITUAL_RARITY1
        Qty : 5
    Item: Ornamental Scepter
-       Tier: TREASURE_CEREMONIAL_RARITY1
        Qty : 2
    Item: Grandmaster's Soul
-       Tier: T7_SOUL
        Qty : 2
    Item: Stone Mask
-       Tier: TREASURE_DECORATIVE_RARITY2
        Qty : 1
    Item: Feather Talisman
-       Tier: TREASURE_TRIBAL_RARITY1
        Qty : 4
    Item: Expert's Avalonian Crest
-       Tier: T5_CAPEITEM_AVALON_BP
        Qty : 1
    Item: Grandmaster's Bag
-       Tier: T7_BAG@1
        Qty : 1
    Item: Dreamcatcher
-       Tier: TREASURE_TRIBAL_RARITY2
        Qty : 3
    Item: Blood Chalice
-       Tier: TREASURE_RITUAL_RARITY2
        Qty : 2
    Item: Elder's Assassin Jacket
-       Tier: T8_ARMOR_LEATHER_SET3
        Qty : 2
    Item: Globus Cruciger
-       Tier: TREASURE_CEREMONIAL_RARITY2
        Qty : 2
    Item: Golden Crown
-       Tier: TREASURE_CEREMONIAL_RARITY3
        Qty : 1
    Item: Master's Cleric Cowl
-       Tier: T6_HEAD_CLOTH_SET2
        Qty : 1
 
 PLAYER: skrillaz    ALLIANCE: CRIT    GUILD: COALITION
    Item: Avalonian Energy
-       Tier: QUESTITEM_TOKEN_AVALON
        Qty : 204
    Item: Master's Rune
-       Tier: T6_RUNE
        Qty : 130
    Item: Adept's Rune
-       Tier: T4_RUNE
        Qty : 272
    Item: Adept's Soul
-       Tier: T4_SOUL
        Qty : 109
    Item: Expert's Rune
-       Tier: T5_RUNE
        Qty : 177
    Item: Expert's Relic
-       Tier: T5_RELIC
        Qty : 36
    Item: Expert's Soul
-       Tier: T5_SOUL
        Qty : 87
    Item: Adept's Relic
-       Tier: T4_RELIC
        Qty : 77
    Item: Simple Stone Toy
-       Tier: TREASURE_DECORATIVE_RARITY1
        Qty : 3
    Item: Corrupted Scroll
-       Tier: TREASURE_KNOWLEDGE_RARITY1
        Qty : 5
    Item: Master's Soul
-       Tier: T6_SOUL
        Qty : 41
    Item: Expert's Avalonian Shard
-       Tier: T5_SHARD_AVALONIAN
        Qty : 22
    Item: T8_RANDOM_DUNGEON_SOLO_TOKEN_D2@2
-       Tier: T8_RANDOM_DUNGEON_SOLO_TOKEN_D2@2
        Qty : 2
    Item: Master's Battleaxe
-       Tier: T6_MAIN_AXE
        Qty : 1
    Item: Master's Relic
-       Tier: T6_RELIC
        Qty : 14
    Item: Elder's Rune
-       Tier: T8_RUNE
        Qty : 1
    Item: Grandmaster's Mercenary Hood
-       Tier: T7_HEAD_LEATHER_SET1@1
        Qty : 1
    Item: Grandmaster's Rune
-       Tier: T7_RUNE
        Qty : 13
    Item: Adept's Avalonian Shard
-       Tier: T4_SHARD_AVALONIAN
        Qty : 39
    Item: Master's Longbow
-       Tier: T6_2H_LONGBOW
        Qty : 1
    Item: Master's Avalonian Shard
-       Tier: T6_SHARD_AVALONIAN
        Qty : 5
    Item: Adept's Tome of Insight
-       Tier: T4_SKILLBOOK_STANDARD
        Qty : 13
    Item: Sacrificial Dagger
-       Tier: TREASURE_RITUAL_RARITY3
        Qty : 2
    Item: Grandmaster's Relic
-       Tier: T7_RELIC
        Qty : 1
    Item: Thin Booklet
-       Tier: TREASURE_KNOWLEDGE_RARITY2
        Qty : 1
    Item: Stone Idol
-       Tier: TREASURE_DECORATIVE_RARITY3
        Qty : 1
    Item: Grandmaster's Mercenary Shoes
-       Tier: T7_SHOES_LEATHER_SET1
        Qty : 1
    Item: Ritual Candles
-       Tier: TREASURE_RITUAL_RARITY1
        Qty : 5
    Item: Ornamental Scepter
-       Tier: TREASURE_CEREMONIAL_RARITY1
        Qty : 2
    Item: Grandmaster's Soul
-       Tier: T7_SOUL
        Qty : 2
    Item: Stone Mask
-       Tier: TREASURE_DECORATIVE_RARITY2
        Qty : 1
    Item: Feather Talisman
-       Tier: TREASURE_TRIBAL_RARITY1
        Qty : 4
    Item: Expert's Avalonian Crest
-       Tier: T5_CAPEITEM_AVALON_BP
        Qty : 1
    Item: Grandmaster's Bag
-       Tier: T7_BAG@1
        Qty : 1
    Item: Dreamcatcher
-       Tier: TREASURE_TRIBAL_RARITY2
        Qty : 3
    Item: Blood Chalice
-       Tier: TREASURE_RITUAL_RARITY2
        Qty : 2
    Item: Elder's Assassin Jacket
-       Tier: T8_ARMOR_LEATHER_SET3
        Qty : 2
    Item: Globus Cruciger
-       Tier: TREASURE_CEREMONIAL_RARITY2
        Qty : 2
    Item: Golden Crown
-       Tier: TREASURE_CEREMONIAL_RARITY3
        Qty : 1
    Item: Master's Cleric Cowl
-       Tier: T6_HEAD_CLOTH_SET2
        Qty : 1
 
 PLAYER: OchipiceR    ALLIANCE: NOALLIANCE    GUILD: Technique
    Item: Avalonian Energy
-       Tier: QUESTITEM_TOKEN_AVALON
        Qty : 204
    Item: Master's Rune
-       Tier: T6_RUNE
        Qty : 130
    Item: Adept's Rune
-       Tier: T4_RUNE
        Qty : 272
    Item: Adept's Soul
-       Tier: T4_SOUL
        Qty : 109
    Item: Expert's Rune
-       Tier: T5_RUNE
        Qty : 177
    Item: Expert's Relic
-       Tier: T5_RELIC
        Qty : 36
    Item: Expert's Soul
-       Tier: T5_SOUL
        Qty : 87
    Item: Adept's Relic
-       Tier: T4_RELIC
        Qty : 77
    Item: Simple Stone Toy
-       Tier: TREASURE_DECORATIVE_RARITY1
        Qty : 3
    Item: Corrupted Scroll
-       Tier: TREASURE_KNOWLEDGE_RARITY1
        Qty : 5
    Item: Master's Soul
-       Tier: T6_SOUL
        Qty : 41
    Item: Expert's Avalonian Shard
-       Tier: T5_SHARD_AVALONIAN
        Qty : 22
    Item: T8_RANDOM_DUNGEON_SOLO_TOKEN_D2@2
-       Tier: T8_RANDOM_DUNGEON_SOLO_TOKEN_D2@2
        Qty : 2
    Item: Master's Battleaxe
-       Tier: T6_MAIN_AXE
        Qty : 1
    Item: Master's Relic
-       Tier: T6_RELIC
        Qty : 14
    Item: Elder's Rune
-       Tier: T8_RUNE
        Qty : 1
    Item: Grandmaster's Mercenary Hood
-       Tier: T7_HEAD_LEATHER_SET1@1
        Qty : 1
    Item: Grandmaster's Rune
-       Tier: T7_RUNE
        Qty : 13
    Item: Adept's Avalonian Shard
-       Tier: T4_SHARD_AVALONIAN
        Qty : 39
    Item: Master's Longbow
-       Tier: T6_2H_LONGBOW
        Qty : 1
    Item: Master's Avalonian Shard
-       Tier: T6_SHARD_AVALONIAN
        Qty : 5
    Item: Adept's Tome of Insight
-       Tier: T4_SKILLBOOK_STANDARD
        Qty : 13
    Item: Sacrificial Dagger
-       Tier: TREASURE_RITUAL_RARITY3
        Qty : 2
    Item: Grandmaster's Relic
-       Tier: T7_RELIC
        Qty : 1
    Item: Thin Booklet
-       Tier: TREASURE_KNOWLEDGE_RARITY2
        Qty : 1
    Item: Stone Idol
-       Tier: TREASURE_DECORATIVE_RARITY3
        Qty : 1
    Item: Grandmaster's Mercenary Shoes
-       Tier: T7_SHOES_LEATHER_SET1
        Qty : 1
    Item: Ritual Candles
-       Tier: TREASURE_RITUAL_RARITY1
        Qty : 5
    Item: Ornamental Scepter
-       Tier: TREASURE_CEREMONIAL_RARITY1
        Qty : 2
    Item: Grandmaster's Soul
-       Tier: T7_SOUL
        Qty : 2
    Item: Stone Mask
-       Tier: TREASURE_DECORATIVE_RARITY2
        Qty : 1
    Item: Feather Talisman
-       Tier: TREASURE_TRIBAL_RARITY1
        Qty : 4
    Item: Expert's Avalonian Crest
-       Tier: T5_CAPEITEM_AVALON_BP
        Qty : 1
    Item: Grandmaster's Bag
-       Tier: T7_BAG@1
        Qty : 1
    Item: Dreamcatcher
-       Tier: TREASURE_TRIBAL_RARITY2
        Qty : 3
    Item: Blood Chalice
-       Tier: TREASURE_RITUAL_RARITY2
        Qty : 2
    Item: Elder's Assassin Jacket
-       Tier: T8_ARMOR_LEATHER_SET3
        Qty : 2
    Item: Globus Cruciger
-       Tier: TREASURE_CEREMONIAL_RARITY2
        Qty : 2
    Item: Golden Crown
-       Tier: TREASURE_CEREMONIAL_RARITY3
        Qty : 1
    Item: Master's Cleric Cowl
-       Tier: T6_HEAD_CLOTH_SET2
        Qty : 1
 
 PLAYER: Altair917    ALLIANCE: NOALLIANCE    GUILD: Technique
    Item: Avalonian Energy
-       Tier: QUESTITEM_TOKEN_AVALON
        Qty : 204
    Item: Master's Rune
-       Tier: T6_RUNE
        Qty : 130
    Item: Adept's Rune
-       Tier: T4_RUNE
        Qty : 272
    Item: Adept's Soul
-       Tier: T4_SOUL
        Qty : 109
    Item: Expert's Rune
-       Tier: T5_RUNE
        Qty : 177
    Item: Expert's Relic
-       Tier: T5_RELIC
        Qty : 36
    Item: Expert's Soul
-       Tier: T5_SOUL
        Qty : 87
    Item: Adept's Relic
-       Tier: T4_RELIC
        Qty : 77
    Item: Simple Stone Toy
-       Tier: TREASURE_DECORATIVE_RARITY1
        Qty : 3
    Item: Corrupted Scroll
-       Tier: TREASURE_KNOWLEDGE_RARITY1
        Qty : 5
    Item: Master's Soul
-       Tier: T6_SOUL
        Qty : 41
    Item: Expert's Avalonian Shard
-       Tier: T5_SHARD_AVALONIAN
        Qty : 22
    Item: T8_RANDOM_DUNGEON_SOLO_TOKEN_D2@2
-       Tier: T8_RANDOM_DUNGEON_SOLO_TOKEN_D2@2
        Qty : 2
    Item: Master's Battleaxe
-       Tier: T6_MAIN_AXE
        Qty : 1
    Item: Master's Relic
-       Tier: T6_RELIC
        Qty : 14
    Item: Elder's Rune
-       Tier: T8_RUNE
        Qty : 1
    Item: Grandmaster's Mercenary Hood
-       Tier: T7_HEAD_LEATHER_SET1@1
        Qty : 1
    Item: Grandmaster's Rune
-       Tier: T7_RUNE
        Qty : 13
    Item: Adept's Avalonian Shard
-       Tier: T4_SHARD_AVALONIAN
        Qty : 39
    Item: Master's Longbow
-       Tier: T6_2H_LONGBOW
        Qty : 1
    Item: Master's Avalonian Shard
-       Tier: T6_SHARD_AVALONIAN
        Qty : 5
    Item: Adept's Tome of Insight
-       Tier: T4_SKILLBOOK_STANDARD
        Qty : 13
    Item: Sacrificial Dagger
-       Tier: TREASURE_RITUAL_RARITY3
        Qty : 2
    Item: Grandmaster's Relic
-       Tier: T7_RELIC
        Qty : 1
    Item: Thin Booklet
-       Tier: TREASURE_KNOWLEDGE_RARITY2
        Qty : 1
    Item: Stone Idol
-       Tier: TREASURE_DECORATIVE_RARITY3
        Qty : 1
    Item: Grandmaster's Mercenary Shoes
-       Tier: T7_SHOES_LEATHER_SET1
        Qty : 1
    Item: Ritual Candles
-       Tier: TREASURE_RITUAL_RARITY1
        Qty : 5
    Item: Ornamental Scepter
-       Tier: TREASURE_CEREMONIAL_RARITY1
        Qty : 2
    Item: Grandmaster's Soul
-       Tier: T7_SOUL
        Qty : 2
    Item: Stone Mask
-       Tier: TREASURE_DECORATIVE_RARITY2
        Qty : 1
    Item: Feather Talisman
-       Tier: TREASURE_TRIBAL_RARITY1
        Qty : 4
    Item: Expert's Avalonian Crest
-       Tier: T5_CAPEITEM_AVALON_BP
        Qty : 1
    Item: Grandmaster's Bag
-       Tier: T7_BAG@1
        Qty : 1
    Item: Dreamcatcher
-       Tier: TREASURE_TRIBAL_RARITY2
        Qty : 3
    Item: Blood Chalice
-       Tier: TREASURE_RITUAL_RARITY2
        Qty : 2
    Item: Elder's Assassin Jacket
-       Tier: T8_ARMOR_LEATHER_SET3
        Qty : 2
    Item: Globus Cruciger
-       Tier: TREASURE_CEREMONIAL_RARITY2
        Qty : 2
    Item: Golden Crown
-       Tier: TREASURE_CEREMONIAL_RARITY3
        Qty : 1
    Item: Master's Cleric Cowl
-       Tier: T6_HEAD_CLOTH_SET2
        Qty : 1
 
 PLAYER: reNameLess    ALLIANCE: NOALLIANCE    GUILD: Technique
    Item: Avalonian Energy
-       Tier: QUESTITEM_TOKEN_AVALON
        Qty : 204
    Item: Master's Rune
-       Tier: T6_RUNE
        Qty : 130
    Item: Adept's Rune
-       Tier: T4_RUNE
        Qty : 272
    Item: Adept's Soul
-       Tier: T4_SOUL
        Qty : 109
    Item: Expert's Rune
-       Tier: T5_RUNE
        Qty : 177
    Item: Expert's Relic
-       Tier: T5_RELIC
        Qty : 36
    Item: Expert's Soul
-       Tier: T5_SOUL
        Qty : 87
    Item: Adept's Relic
-       Tier: T4_RELIC
        Qty : 77
    Item: Simple Stone Toy
-       Tier: TREASURE_DECORATIVE_RARITY1
        Qty : 3
    Item: Corrupted Scroll
-       Tier: TREASURE_KNOWLEDGE_RARITY1
        Qty : 5
    Item: Master's Soul
-       Tier: T6_SOUL
        Qty : 41
    Item: Expert's Avalonian Shard
-       Tier: T5_SHARD_AVALONIAN
        Qty : 22
    Item: T8_RANDOM_DUNGEON_SOLO_TOKEN_D2@2
-       Tier: T8_RANDOM_DUNGEON_SOLO_TOKEN_D2@2
        Qty : 2
    Item: Master's Battleaxe
-       Tier: T6_MAIN_AXE
        Qty : 1
    Item: Master's Relic
-       Tier: T6_RELIC
        Qty : 14
    Item: Elder's Rune
-       Tier: T8_RUNE
        Qty : 1
    Item: Grandmaster's Mercenary Hood
-       Tier: T7_HEAD_LEATHER_SET1@1
        Qty : 1
    Item: Grandmaster's Rune
-       Tier: T7_RUNE
        Qty : 13
    Item: Adept's Avalonian Shard
-       Tier: T4_SHARD_AVALONIAN
        Qty : 39
    Item: Master's Longbow
-       Tier: T6_2H_LONGBOW
        Qty : 1
    Item: Master's Avalonian Shard
-       Tier: T6_SHARD_AVALONIAN
        Qty : 5
    Item: Adept's Tome of Insight
-       Tier: T4_SKILLBOOK_STANDARD
        Qty : 13
    Item: Sacrificial Dagger
-       Tier: TREASURE_RITUAL_RARITY3
        Qty : 2
    Item: Grandmaster's Relic
-       Tier: T7_RELIC
        Qty : 1
    Item: Thin Booklet
-       Tier: TREASURE_KNOWLEDGE_RARITY2
        Qty : 1
    Item: Stone Idol
-       Tier: TREASURE_DECORATIVE_RARITY3
        Qty : 1
    Item: Grandmaster's Mercenary Shoes
-       Tier: T7_SHOES_LEATHER_SET1
        Qty : 1
    Item: Ritual Candles
-       Tier: TREASURE_RITUAL_RARITY1
        Qty : 5
    Item: Ornamental Scepter
-       Tier: TREASURE_CEREMONIAL_RARITY1
        Qty : 2
    Item: Grandmaster's Soul
-       Tier: T7_SOUL
        Qty : 2
    Item: Stone Mask
-       Tier: TREASURE_DECORATIVE_RARITY2
        Qty : 1
    Item: Feather Talisman
-       Tier: TREASURE_TRIBAL_RARITY1
        Qty : 4
    Item: Expert's Avalonian Crest
-       Tier: T5_CAPEITEM_AVALON_BP
        Qty : 1
    Item: Grandmaster's Bag
-       Tier: T7_BAG@1
        Qty : 1
    Item: Dreamcatcher
-       Tier: TREASURE_TRIBAL_RARITY2
        Qty : 3
    Item: Blood Chalice
-       Tier: TREASURE_RITUAL_RARITY2
        Qty : 2
    Item: Elder's Assassin Jacket
-       Tier: T8_ARMOR_LEATHER_SET3
        Qty : 2
    Item: Globus Cruciger
-       Tier: TREASURE_CEREMONIAL_RARITY2
        Qty : 2
    Item: Golden Crown
-       Tier: TREASURE_CEREMONIAL_RARITY3
        Qty : 1
    Item: Master's Cleric Cowl
-       Tier: T6_HEAD_CLOTH_SET2
        Qty : 1
 

@@ -1,14 +1,15 @@
+import time
+
 # represents an item that has been picked up
 class item:
     
-    def __init__(self, name = "NONAME", tier = "NOTIER", qty = -1):
+    def __init__(self, name = "NONAME", qty = -1):
         self.name = name
-        self.tier = tier
         self.qty = qty
 
     # prints out item's attributes
     def list(self):
-        print(f"ITEM: {self.name} \n     Tier: {self.tier}\n     QTY: {self.qty}")
+        print(f"ITEM: {self.name} \n     QTY: {self.qty}")
 
     def getName(self):
         return self.name
@@ -24,9 +25,6 @@ class item:
 
     def getQty(self):
         return self.qty
-    
-    def getTier(self):
-        return self.tier
 
 # represents a player character
 class player_inv:
@@ -99,8 +97,8 @@ try:
             # each element is separated into a list using semicolons as sepatators
             elements = line.split(";")
 
-            # creates item object from elements, (name, tier, quantity)
-            currItem = item(elements[5], elements[4], elements[6])
+            # creates item object from elements, (name, quantity)
+            currItem = item(elements[5], elements[6])
             #currItem.list() # Debug, prints item attributes
 
             # if player (element #3) is in players, add to their inventory. Else, create a new player
@@ -161,9 +159,8 @@ try:
             for j in range(len(currItems)):
 
                 line2 = "   Item: " + currItems[j].getName() + '\n'
-                line3 = "       Tier: " + currItems[j].getTier() + '\n'
                 line4 = "       Qty : " + currItems[j].getQty() + '\n'
-                file.write(line2 + line3 + line4)
+                file.write(line2 + line4)
 
             file.write('\n')
 
