@@ -147,8 +147,6 @@ def main():
 
     print("Listening for packets... Press any key to stop")
 
-    #*****WRITE THE CODE HERE*******
-
     try:
         real_iface = resolve_real_interface(bestInterface)
 
