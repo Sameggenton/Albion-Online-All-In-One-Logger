@@ -62,24 +62,28 @@ class player_inv:
     def add(self, item):
         found = False
 
+        # see if player already has an item
         for i in range(len(self.items)):
             if item.getName() == self.items[i].getName():
+
+                # if player already has it, add to QTY running total
                 self.items[i].addQty(item.getQty())
                 found = True
 
-                print(f"incremented QTY of {item.getName()} to {item.getQty()}") # debug
+                #print(f"incremented QTY of {item.getName()} to {item.getQty()}") # debug
 
                 break
         
+        # Player does not have item yet, create new entry
         if not found:
             self.items.append(item)
 
-            print (f"added new item {item.getName()}") # debug
+            #print (f"added new item {item.getName()}") # debug
 
 
 
-#===========================================================*START OF MAIN*===========================================================================
-#name of input file; REPLACE WITH SOMETHING GENERIC
+#==========================================================*START OF MAIN*===========================================================================
+#name of input file; REPLACE WITH SOMETHING GENERIC IF UR ACTUALLY USING THIS TOOL
 inFile = "loot-events-2025-12-04-11-07-27.txt"
 players = []
 playerNames = []
@@ -90,14 +94,14 @@ try:
 
         for line in file:
 
-            #print(line) # temporary, this is where line processing goes
+            #print(line) # debug, prints raw line data
 
             # each element is separated into a list using semicolons as sepatators
             elements = line.split(";")
 
             # creates item object from elements, (name, tier, quantity)
             currItem = item(elements[5], elements[4], elements[6])
-            #currItem.list() # Debug
+            #currItem.list() # Debug, prints item attributes
 
             # if player (element #3) is in players, add to their inventory. Else, create a new player
             found = False
@@ -136,11 +140,14 @@ except Exception as e:
 
                                 # ***File output***
 
+
+#name of output file, can be whatever you want
 outFile = "Python_Lootlog.txt"
 
 
 try:
     with open(outFile, 'w') as file:
+        # Open output file, start looping through list of players
         for i in range(len(players)):
 
             currPlayer = players[i]
@@ -150,6 +157,7 @@ try:
             line1 = "PLAYER: " + currPlayer.getName() + "    ALLIANCE: " + currPlayer.getAlliance() + "    GUILD: " + currPlayer.getGuild()
             file.write(line1 + '\n')
 
+            # For each player, list all items and their attributes
             for j in range(len(currItems)):
 
                 line2 = "   Item: " + currItems[j].getName() + '\n'
@@ -159,5 +167,6 @@ try:
 
             file.write('\n')
 
+# in case file creation fails for some reason
 except Exception as e:
     print(f"An error occurred: {e}")
