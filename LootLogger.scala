@@ -107,12 +107,16 @@ object LootLogger {
 
         val end_time = System.nanoTime()
 
+
+        //duration data
         val total_duration = (end_time - start_time)
 
         val input_duration = (input_time - start_time)
 
         val output_duration = (end_time - input_time)
 
+
+        //print duration data to console
         println(s"Total processing time: $total_duration nanoseconds")
         println(s"Input processing time: $input_duration nanoseconds")
         println(s"Output processing time: $output_duration nanoseconds")
