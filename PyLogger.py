@@ -182,8 +182,8 @@ end_main = time.perf_counter_ns()
 # Printing measurement results to console
 mb = 1024 * 1024
 main_total = (end_main - start_main) # should be in nanoseconds...
-read_total = round((end_read - start_read), 2)
-output_total = round((end_output - start_output), 2) 
+read_total = (end_read - start_read)
+output_total = (end_output - start_output) 
 mem_usage = round(process.memory_info().rss / mb, 2)
 
 print("PROGRAM METRICS:")
