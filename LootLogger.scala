@@ -121,5 +121,14 @@ object LootLogger {
         println(s"Input processing time: $input_duration nanoseconds")
         println(s"Output processing time: $output_duration nanoseconds")
 
+        //memory data
+        val runtime = Runtime.getRuntime
+        val mb = 1024 * 1024
+        println("Memory data in MB:")
+        println("** Used Memory:  " + (runtime.totalMemory - runtime.freeMemory) / mb)
+        println("** Free Memory:  " + runtime.freeMemory / mb)
+        println("** Total Memory: " + runtime.totalMemory / mb)
+        println("** Max Memory:   " + runtime.maxMemory / mb)
+
     }
 }
